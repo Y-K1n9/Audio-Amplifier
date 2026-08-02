@@ -1,0 +1,33 @@
+--- Bill of Materials ---
+
+Ref.	Mfg.	Part No.	Description
+C1	--	--	capacitor, 300µF
+C3	--	--	capacitor, 300µF
+C4	--	--	capacitor, 10µF
+C5	--	--	capacitor, 13.72pF
+C6	--	--	capacitor, 5.48µF
+C7	--	--	capacitor, 250µF
+C8	--	--	capacitor, 250µF
+D1	Diodes Inc.	1N4007	diode
+D2	Diodes Inc.	1N4007	diode
+Q1	NXP	BC547B	bipolar transistor
+Q2	NXP	BC547B	bipolar transistor
+Q3	NXP	BC547B	bipolar transistor
+Q4	--	Qtip31a	bipolar transistor
+Q5	--	Qtip32a	bipolar transistor
+R1	--	--	resistor, 430
+R2	--	--	resistor, 70
+R3	--	--	resistor, 12K
+R4	--	--	resistor, 14.5K
+R5	--	--	resistor, 11K
+R6	--	--	resistor, 290K
+R7	--	--	resistor, 290K
+R8	--	--	resistor, 70
+R9	--	--	resistor, 10
+R10	--	--	resistor, 70
+R11	--	--	resistor, 70
+RB1	--	--	resistor, 113.5K
+RB2	--	--	resistor, 9.5K
+RE1	--	--	resistor, 225
+RL1	--	--	resistor, 16K
+U1	(unknown)	UA741	(unknown 3rd party model)
