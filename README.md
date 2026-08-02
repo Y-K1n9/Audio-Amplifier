@@ -1,6 +1,6 @@
 # Audio Amplifier Design and Hardware Implementation
 
-> A complete multi-stage audio amplifier designed from first principles, simulated in **LTspice**, mathematically analyzed, and validated on hardware.
+> A complete multi-stage audio amplifier designed, simulated in **LTspice**, mathematically analyzed and validated on hardware.
 
 ---
 
@@ -48,8 +48,6 @@ Speaker
 ---
 
 # Project Highlights
-
-- Complete Analog Audio Amplifier
 
 - LTspice Simulation
 
